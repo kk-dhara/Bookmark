@@ -102,5 +102,5 @@ https://opensource.com/article/19/3/how-boot-new-raspberry-pi?utm_medium=Email&u
 [Verification: Accuracy Evaluation of WiFi Fine Time Measurements on an Open Platform](https://github.com/HappyZ/iw_intel8260_localization/wiki/Enable-802.11mc-FTM-on-Intel-8260) 
 [WiFi FTM Linux Tool — Installation Instructions](http://www.winlab.rutgers.edu/~gruteser/papers/verification_mobicom.pdf)  
 [Practical Python and OpenCV: Learn Computer Vision in a Single Weekend](http://www.winlab.rutgers.edu/~gruteser/projects/ftm/Setups.htm)  
-[www.pyimagesearch.com/practical-python-opencv](https://www.pyimagesearch.com/practical-python-opencv/?src=pi-opencv-install&email=kk_dhara@yahoo.com)  
+[www.pyimagesearch.com/practical-python-opencv](https://www.pyimagesearch.com/practical-python-opencv/?src=pi-opencv-install)  
 
