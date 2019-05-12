@@ -104,3 +104,32 @@ https://opensource.com/article/19/3/how-boot-new-raspberry-pi?utm_medium=Email&u
 [Practical Python and OpenCV: Learn Computer Vision in a Single Weekend](http://www.winlab.rutgers.edu/~gruteser/projects/ftm/Setups.htm)  
 [www.pyimagesearch.com/practical-python-opencv](https://www.pyimagesearch.com/practical-python-opencv/?src=pi-opencv-install)  
 
+==================================================================
+
+## OpenWrt</H3>
+
+(http://centaur.sch.bme.hu/~leait/projects/openwrt/) [Port status polling via swconfig kernel module</A>
+(https://lwn.net/Articles/720313/) [The rise of Linux-based networking hardware [LWN.net]</A>
+(https://lwn.net/Articles/571390/) [[PATCH 0/4 net-next] net: phy: add Generic Netlink switch configuration API [LWN.net]]
+(http://slideplayer.com/slide/5261476/) [Review for Exam II Chapter 5: Process Synchronization Chapter 6: CPU Scheduling Rev. by Kyungeun Park, ppt download]
+(https://wwitv.com/tv_channels/b4200.htm) [Watch Live: NDTV India (Hindi) from India.]
+(https://wiki.compex.com.sg/wiki/OpenWRT_Build_Instructions#ath10k) [OpenWRT Build Instructions - Compex Wiki]
+-----------------------
+## Financial stock plot</H3>
+
+(https://pypi.python.org/pypi/yahoo-finance) [yahoo-finance 1.4.0 : Python Package Index]
+(https://pypi.python.org/pypi/googlefinance) [googlefinance 0.7 : Python Package Index]
+(https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/) [An Introduction to Stock Market Data Analysis with Python (Part 1) | Curtis Miller's Personal Website]
+-----------------------
+## machine learning 
+
+(https://www.programiz.com/c-programming/examples/matrix-multiplication) [C Program to Multiply to Matrix Using Multi-dimensional Arrays]
+(https://stackoverflow.com/questions/1380371/what-are-the-most-widely-used-c-vector-matrix-math-linear-algebra-libraries-a) [What are the most widely used C++ vector/matrix math/linear algebra libraries, and their cost and benefit tradeoffs? - Stack Overflow]
+(https://stackoverflow.com/questions/5083465/fast-efficient-least-squares-fit-algorithm-in-c) [fast & efficient least squares fit algorithm in C? - Stack Overflow]
+(http://www.code-in-c.com/linear-regression-fitting-a-line-to-data/) [Linear Regression: Fitting a Line to Data | Code in C]
+(https://stackoverflow.com/questions/49293615/accessing-gsl-library-with-c) [Accessing GSL library with C - Stack Overflow]
+(https://opensource.com/article/18/1/analyzing-linux-boot-process?utm_medium=Email&utm_campaign=editorspicks&sc_cid=701f2000000RVUGAA4) [Analyzing the Linux boot process | Opensource.com]
+(https://www.quora.com/How-can-I-write-a-simple-AI-program-in-C) [How to write a simple AI program in C - Quora]
+(https://www.thelearningmachine.ai/ml) [TLM | Machine Learning]
+(https://www.thelearningmachine.ai/tree-id3) [TLM | Decision Tree (ID3)]
+-----------------------
